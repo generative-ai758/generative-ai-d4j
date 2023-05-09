@@ -1,19 +1,5 @@
 version = 1
 
-test_patterns = ["Chart/**/tests/org/jfree/**"]
-
-exclude_patterns = [
-  "Chart/**/docfiles/*",
-  "Chart/**/lib/*",
-  "Chart/**/.gitignore",
-  "Chart/**/.defects4j.config",
-  "Chart/**/ChangeLog",
-  "Chart/**/NEWS",
-  "Chart/**/readme.txt",
-  "Chart/**/defects4j.build.properties",
-  "Chart/**/licence-LGPL.txt"
-]
-
 [[analyzers]]
 name = "java"
 
