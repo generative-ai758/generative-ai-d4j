@@ -4,7 +4,7 @@ exclude_patterns = [
   "Chart/2/**",
   "Chart/3/**",
   "Chart/4/**",
-  "Chart/5/**",
+  "Chart/1/**",
   "Chart/6/**",
   "Chart/7/**"
 ]
