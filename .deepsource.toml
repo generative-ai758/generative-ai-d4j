@@ -1,6 +1,13 @@
 version = 1
 
-exclude_patterns = ["Chart/**"]
+exclude_patterns = [
+  "Chart/2/**",
+  "Chart/3/**",
+  "Chart/4/**",
+  "Chart/5/**",
+  "Chart/6/**",
+  "Chart/7/**"
+]
 
 [[analyzers]]
 name = "java"
