@@ -14,7 +14,7 @@ exclude_patterns = [
   "Chart/11/**",
   "Chart/13/**",
   "Chart/12/**",
-  "Chart/17/**"
+  "Chart/16/**"
 ]
 
 [[analyzers]]
