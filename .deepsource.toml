@@ -10,7 +10,7 @@ exclude_patterns = [
   "Chart/8/**",
   "Chart/1/**",
   "Chart/10/**",
-  "Chart/11/**",
+  "Chart/9/**",
   "Chart/12/**"
 ]
 
