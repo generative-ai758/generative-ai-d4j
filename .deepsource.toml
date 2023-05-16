@@ -1,20 +1,20 @@
 version = 1
 
 exclude_patterns = [
-  "Chart/2/**",
+  "Chart/7/**",
+  "Chart/8/**",
+  "Chart/17/**",
+  "Chart/10/**",
+  "Chart/9/**",
+  "Chart/11/**",
+  "Chart/13/**",
+  "Chart/12/**",
+  "Chart/16/**",
   "Chart/3/**",
   "Chart/4/**",
   "Chart/5/**",
   "Chart/6/**",
-  "Chart/7/**",
-  "Chart/8/**",
-  "Chart/1/**",
-  "Chart/10/**",
-  "Chart/9/**",
-  "Chart/12/**",
-  "Chart/13/**",
-  "Chart/16/**",
-  "Chart/17/**"
+  "Chart/2/**"
 ]
 
 [[analyzers]]
